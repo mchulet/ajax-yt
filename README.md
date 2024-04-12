@@ -1,2 +1,2 @@
 # ajax-yt
-AJAX User guide
+AJAX Beginner Tutorial using plain Javascript & Bootstrap
